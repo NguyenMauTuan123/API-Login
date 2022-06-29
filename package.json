@@ -1,0 +1,19 @@
+{
+  "name": "api-login",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NguyenMauTuan123/API-Login.git"
+  },
+  "author": "Tuan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NguyenMauTuan123/API-Login/issues"
+  },
+  "homepage": "https://github.com/NguyenMauTuan123/API-Login#readme"
+}
